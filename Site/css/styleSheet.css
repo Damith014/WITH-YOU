@@ -1,0 +1,45 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+#background{
+    background: yellow; 
+}
+
+#centerBar{
+    height:530px;
+}
+
+.mydiv{
+    display: none;
+}
+.menu{
+    
+    margin-bottom: 0px;
+    padding: 10px;
+    padding-bottom: 0px;
+    float:right;
+    
+}
+.menu ul {
+    list-style: none;
+    
+   
+   
+}
+
+.menu ul li{
+    display: inline;
+    padding: 10px;
+    font-size: 15px;
+   
+     border-radius:5px 0px 5px 0px;
+   
+}
+.menu ul li a{
+    text-decoration: none;
+    color:white;
+    
+}

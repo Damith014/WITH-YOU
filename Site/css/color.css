@@ -1,0 +1,252 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 1, 2017, 6:15:27 PM
+    Author     : Damith
+*/
+
+a {
+	color: #269abc;
+}
+p.template-para::first-letter {
+	color: #269abc;
+}
+.color-default {
+	color: #269abc;
+}
+.template-list li:before {
+	color: #269abc;
+}
+.bg-primary {
+	background-color: #269abc;
+}
+.text-primary {
+	color: #269abc;
+}
+h2.para-heading {
+	color:#269abc;
+}
+.section-heading:before {
+	background-color: #269abc;
+}
+.section-heading:after {
+	background-color: #269abc;
+}
+header.inner .header-content h1 {
+    color: #269abc;
+}
+.theme-bg {
+	background: #269abc;
+}
+ul.dot-ul li:before {
+	color: #269abc;
+}
+#scroll-up {
+	background-color: #469ae2;
+}
+div.kuppi-info {
+	background: #469ae2;
+}
+.navbar-default .navbar-header .navbar-brand {
+	color: #269abc;
+}
+.navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover {
+	color: #269abc;
+}
+.navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
+	color: #269abc;
+}
+.navbar-default.affix .nav > li.active > a, .navbar-default.affix .nav > li.active > a:focus {
+	color: #269abc !important;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #269abc;
+}
+.navbar-default li.search-icon a .fa {
+	color: #269abc;
+}
+.search-form .form-control:focus {
+	border-color: #269abc;
+}
+.search-form button {
+	background-color: #269abc;
+}
+.dropdown-menu {
+	border-top: 3px solid #269abc;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:active, .dropdown-menu > li > a:focus {
+	background-color: #269abc;
+}
+.profile-box h4 span {
+	color: #269abc;
+}
+.service-box-button {
+	background: #269abc;
+}
+.img-box span {
+	background: #269abc;
+}
+.course-heading:after {
+    background: #269abc;
+}
+.post-more a {
+	background: #269abc;
+}
+.template-readmore:hover {
+	background: #269abc;
+}
+.post-preview a:hover, .post-preview a:focus {
+	color: #269abc;
+}
+.pager li > a, .pager li > span {
+	background-color: #269abc;
+	border: 1px solid #269abc;
+}
+.pager li > a:hover, .pager li > a:focus, .pager li > a:active {
+	color: #269abc;
+}
+.sidebar-post > a:hover {
+	color: #269abc;
+}
+.sidebar-post > a::before {
+	color: #269abc;
+}
+.sidebar-list li:before {
+	color: #269abc;
+}
+.sidebar-list li a:hover, .sidebar-list li a:focus, .sidebar-list li a:active {
+	color: #269abc;
+}
+.sidebar-tags a:hover, .sidebar-tags a:active, .sidebar-tags a:focus {
+	color: #269abc;
+	border: 1px solid #269abc;
+}
+.sidebar-cta {
+	background: #269abc;
+}
+.sidebar-cta div {
+	background: #269abc;
+}
+button.btn-download:hover, button.btn-download:active, button.btn-download:focus {
+	color: #269abc;
+}
+h3.author-name {
+	color: #269abc;
+}
+.post-meta a {
+	color: #269abc;
+}
+.team-more a {
+	color: #269abc;
+}
+.panel-title a:hover, .panel-title a[aria-expanded="true"] {
+	background-color: #269abc;
+}
+#quote-carousel .carousel-indicators li {
+	background: #269abc;
+}
+#quote-carousel .carousel-indicators .active {
+	background: #269abc;
+}
+.template-form .form-control:focus {
+	border-color: #269abc;
+}
+.konnect-form .form-control:focus {
+	border-color: #269abc;
+}
+.footer-widget h3{
+	color:#269abc;
+}
+.footer-widget .read-more {
+	background-color: #269abc;
+}
+.footer-widget.address .fa {
+	color: #269abc;
+}
+.footer-widget ul li .fa {
+	color: #269abc;
+}
+.footer-widget ul li a:hover, .footer-widget ul li a:active, .footer-widget ul li a:focus {
+	color: #269abc;
+}
+.btn-primary {
+	background-color: #269abc;
+	border-color: #269abc;
+}
+.btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled.focus, .btn-primary[disabled].focus, fieldset[disabled] .btn-primary.focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active {
+	background-color: #269abc;
+	border-color: #269abc;
+}
+.btn-primary .badge {
+	color: #269abc;
+}
+.template-button {
+	color: #269abc;
+}
+.dark-bg .template-button {
+	background: #269abc;
+}
+.dark-bg{
+    background: #F3F6F8;
+}
+.cardBox{
+    background-color: #F3F6F8;
+    
+}
+.template-button:hover, .template-button:focus, .template-button:active {
+	color: #269abc;
+}
+.btn-facebook:hover {
+	color: #269abc;
+}
+.btn-google:hover {
+	color: #269abc;
+}
+.error-page ul li a {
+	background-color: #269abc;
+}
+.konnect-carousel:hover .flex-next, .konnect-carousel:hover .flex-prev {
+	color: #269abc;
+}
+.carousel-image .big {
+	color: #269abc;
+}
+.carousel-image .btn.btn-lg {
+	background: #269abc;
+}
+.carousel-image-pagination .flex-control-paging a:hover, .carousel-image-pagination .flex-control-paging a.flex-active {
+	background-color: #269abc;
+}
+.konnect-carousel:hover .flex-next, .konnect-carousel:hover .flex-prev {
+	border: 1px solid #269abc;
+}
+.banner-bar h3 {
+    color: #269abc;
+}
+.post-content-text h4 span{
+	color:#269abc;
+}
+@media (max-width: 767px) {
+.navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
+	color: #269abc;
+}
+}
+ @media (min-width: 768px) {
+.navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover {
+	color: #269abc;
+}
+.navbar-default.affix .navbar-header .navbar-brand {
+	color: #269abc;
+}
+.navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover {
+	color: #269abc;
+}
+}
+
+
+
+
+
